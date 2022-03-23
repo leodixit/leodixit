@@ -2,7 +2,7 @@
 - 👀 I’m interested in inprove my skill on software quality assurance and testing universe
 - 🌱 I’m currently learning about Angular and Protractor
 - 💞️ I’m looking to collaborate on front-end web applications
-- 📫 You can reach me on my pwesonal email: leodixit.1@gmail.com
+- 📫 You can reach me on my personal email: leodixit.1@gmail.com
 
 <!---
 leodixit/leodixit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
